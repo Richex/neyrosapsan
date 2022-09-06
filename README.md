@@ -9,7 +9,7 @@
 
 Бот содержит 597 фраз, половина из которых - различные вариации слова ШТОШ. Подключается через Telegram [@neyrosapsan_bot](https://t.me/neyrosapsan_bot). 
 
-Бота так же можно добавить в групповой чат как обычного пользователя. В таком случае он будет реагировать на упоминание его в разговоре по имени <strong>Юлия Самойлова</strong>, <strong>@ЮлияСамойлова</strong>, <strong>@neyrosapsan_bot</strong>, <strong>Юлия Сапсан</strong>, <strong>@ЮлияСапсан</strong>, <strong>Нейро Сапсан</strong> а так же на некоторые слова-триггеры - <strong>жаль</strong>, <strong>жалко</strong>, <strong>рвись</strong>, <strong>порвался</strong>.
+Бота так же можно добавить в групповой чат как обычного пользователя. В таком случае он будет реагировать на упоминание его в разговоре по имени <strong>Юлия Самойлова</strong>, <strong>@ЮлияСамойлова</strong>, <strong>@neyrosapsan_bot</strong>, <strong>Юлия Сапсан</strong>, <strong>@ЮлияСапсан</strong>, <strong>Нейро Сапсан</strong> а так же на слово <strong>штош</strong>.
 
 <img src="https://raw.githubusercontent.com/Richex/neyrosapsan/main/img/1.jpg" />
 
