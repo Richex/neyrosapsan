@@ -1223,3 +1223,9 @@ yaaay
 
 </details>
 
+<details>
+<summary><b>Как установить на сервер Ubuntu</b></summary>
+
+[![BG](https://i.imgur.com/8HLgmhl.jpg)](https://www.youtube.com/watch?v=HOJsalRLnEQ)
+
+</details>
